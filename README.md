@@ -1,2 +1,1 @@
-# gitinit-decisionrsystem.py.io
-Decision review system project using python language.
+# Decision review system :monocle_face: with python-tkinter
