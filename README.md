@@ -1,1 +1,1 @@
-# Decision review system :monocle_face: with python-tkinter
+# Decision Review System :monocle_face: with python-tkinter
